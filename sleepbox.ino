@@ -20,11 +20,11 @@
 #define YELLOW_LEDS 5
 #define WHITE_LEDS 6
 
-enum State {
-    BEING_SET,
-    WAITING,
-    LIGHT_ACTIVE
-}
+// enum State {
+//     BEING_SET,
+//     WAITING,
+//     LIGHT_ACTIVE
+// }
 
 void setup() {
 
