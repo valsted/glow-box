@@ -58,7 +58,7 @@ public:
     }
 
     bool isDone() {
-        return !fading || currentTime > endTime;
+        return !fading || curTime > endTime;
     }
 };
 
